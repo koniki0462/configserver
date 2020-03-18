@@ -1,0 +1,2 @@
+# configserver
+URLS For ConfigServer
